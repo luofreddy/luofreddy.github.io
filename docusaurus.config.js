@@ -11,8 +11,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'luofreddy', // Usually your GitHub org/user name.
+  projectName: 'luofreddy.github.io', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [
