@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[683],{2640:function(s){s.exports=JSON.parse('{"name":"workspace","permalink":"/docs/tags/workspace","docs":[{"id":"NPM/yarn-workspaces","title":"[Yarn] workspaces","description":"WHY","permalink":"/docs/NPM/yarn-workspaces"}],"allTagsPath":"/docs/tags"}')}}]);
