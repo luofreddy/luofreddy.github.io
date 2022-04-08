@@ -20,7 +20,7 @@ yarn 的 workspace 在 v1 就可以使用並且預設為開啟。
 
 首先建立一個專案資料夾做為 workspace root 而這個目錄下安裝的套件所產生的 node_modules 則稱為 root node_modules。
 
-接著透過 `yarn init -y` 來初始化![yarn init](https://raw.githubusercontent.com/luofreddy/images/main/uPic/2022/04/05/截圖 2022-04-05 下午11.56.08.png)
+接著透過 `yarn init -y` 來初始化![yarn init](https://raw.githubusercontent.com/luofreddy/images/main/uPic/2022/04/05/截圖%202022-04-05%20下午10.27.30.png)
 
 此時會產生 package.json
 

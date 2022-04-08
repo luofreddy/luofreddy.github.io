@@ -22,8 +22,8 @@ export default function Home(): JSX.Element {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Freddy 筆記集散地`}
+      description="Freddy 筆記集散地｜不用變得很厲害才開始，而是開始了才會變得很厲害">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
