@@ -112,6 +112,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       },
       metadatas:[
         {name: 'google-site-verification', content: 'AtD5Ibng1T6JZI370vhIWYWXqaBBUj-OAsE7mccWJFM'}
-      ]
+      ],
+      
     }),
+    scripts: [
+      {
+        src: 'https://www.googletagmanager.com/gtag/js?id=G-TMNX80PVNL',
+        async: true,
+      },
+      {
+        src: '/js/ga4-init.js',
+        async: false
+      }
+    ]
 });
