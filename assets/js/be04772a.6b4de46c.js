@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[1694],{2388:function(a){a.exports=JSON.parse('{"name":"GA","permalink":"/docs/tags/ga","docs":[{"id":"Marketing/ga-ga4","title":"[GA] GA4","description":"\u4e8b\u4ef6\u7c21\u4ecb","permalink":"/docs/Marketing/ga-ga4"}],"allTagsPath":"/docs/tags"}')}}]);
