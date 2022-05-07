@@ -29,9 +29,6 @@ laravel new [project name]
 
 ## Ref
 
-1. [ Laravel 環境建置（MacOS）]('https://ithelp.ithome.com.tw/articles/10216204')
+1. [ Laravel 環境建置（MacOS）](https://ithelp.ithome.com.tw/articles/10216204)
 
 2. [Laravel 入門：在 Mac 安裝與啟動 Laravel](https://simonallen.coderbridge.io/2020/04/06/install-laravel/)
-
-   
-
