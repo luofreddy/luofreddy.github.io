@@ -22,7 +22,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Freddy 筆記集散地`}
-      description="Freddy 筆記集散地｜不用變得很厲害才開始，而是開始了才會變得很厲害">
+      description="Freddy 筆記集散地｜筆記與文章的集散地">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

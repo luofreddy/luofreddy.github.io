@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
   title: 'Freddy',
-  tagline: '不用變得很厲害才開始，而是開始了才會變得很厲害',
+  tagline: '理性思考，迎難而上',
   url: 'https://luofreddy.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -50,7 +50,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             position: 'left',
             label: 'Docs',
-            to: '/docs/NPM/yarn-workspaces'
+            to: '/docs/index'
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
